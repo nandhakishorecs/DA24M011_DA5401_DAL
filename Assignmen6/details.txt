@@ -1,1 +1,0 @@
-Naive Bayes, Linear & Quadratic Discriminent Analysis 
