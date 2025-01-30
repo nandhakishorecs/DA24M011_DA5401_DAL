@@ -1,0 +1,432 @@
+len of classes:	 60000
+len of the header 171
+Fitting 5 folds for each of 48 candidates, totalling 240 fits
+[CV 1/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=8;, score=0.496 total time=   1.0s
+[CV 4/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.6s
+[CV 1/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=32;, score=0.820 total time=   7.0s
+[CV 2/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=16;, score=0.815 total time=   7.1s
+[CV 3/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.7s
+[CV 2/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.6s
+[CV 3/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=16;, score=0.835 total time=   8.5s
+[CV 3/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=8;, score=0.852 total time=  17.2s
+[CV 5/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=64;, score=0.787 total time=  11.3s
+[CV 2/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=32;, score=0.814 total time=  12.4s
+[CV 2/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=16;, score=0.815 total time=  13.6s
+[CV 3/5] END ..................C=1000, penalty=l1;, score=nan total time=   0.1s
+[CV 2/5] END ....................C=10, penalty=l1;, score=nan total time=   0.1s
+[CV 4/5] END ..................C=10, penalty=l2;, score=0.855 total time=   3.6s
+[CV 5/5] END ..............gamma=0, kernel=poly;, score=0.496 total time=  17.1s
+[CV 4/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.5s
+[CV 3/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 4/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=32;, score=0.822 total time=   6.8s
+[CV 5/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=16;, score=0.839 total time=   7.5s
+[CV 1/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.6s
+[CV 3/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 4/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=32;, score=0.830 total time=  13.9s
+[CV 3/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=32;, score=0.837 total time=  14.0s
+[CV 3/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.6s
+[CV 2/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=16;, score=0.815 total time=   7.6s
+[CV 2/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=8;, score=0.824 total time=  15.5s
+[CV 2/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=64;, score=0.775 total time=  10.8s
+[CV 3/5] END ...................C=100, penalty=l1;, score=nan total time=   0.0s
+[CV 5/5] END .................C=100, penalty=l2;, score=0.847 total time=   3.1s
+[CV 2/5] END ...............gamma=0, kernel=rbf;, score=0.496 total time=  17.0s
+[CV 1/5] END ...............gamma=10, kernel=poly;, score=nan total time=   0.3s
+[CV 4/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.5s
+[CV 4/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=8;, score=0.838 total time=   6.9s
+[CV 5/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=64;, score=0.787 total time=   7.0s
+[CV 1/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=64;, score=0.784 total time=   7.0s
+[CV 2/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 3/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=32;, score=0.837 total time=  14.8s
+[CV 4/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=32;, score=0.830 total time=  16.4s
+[CV 3/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=8;, score=0.853 total time=   5.8s
+[CV 3/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=64;, score=0.824 total time=  10.0s
+[CV 4/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=16;, score=0.840 total time=  14.4s
+[CV 5/5] END ..................C=1000, penalty=l1;, score=nan total time=   0.0s
+[CV 2/5] END .................C=100, penalty=l2;, score=0.838 total time=   2.9s
+[CV 4/5] END ...................C=1, penalty=l2;, score=0.850 total time=   1.7s
+[CV 1/5] END ................gamma=1, kernel=poly;, score=nan total time=   0.5s
+[CV 2/5] END ................gamma=1, kernel=poly;, score=nan total time=   0.4s
+[CV 4/5] END ................gamma=1, kernel=poly;, score=nan total time=   0.6s
+[CV 2/5] END ...............gamma=10, kernel=poly;, score=nan total time=   0.4s
+[CV 3/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.6s
+[CV 3/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=8;, score=0.858 total time=   6.7s
+[CV 4/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=64;, score=0.802 total time=   7.1s
+[CV 5/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=32;, score=0.841 total time=   6.8s
+[CV 4/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=16;, score=0.838 total time=   7.7s
+[CV 5/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=8;, score=0.843 total time=  13.1s
+[CV 3/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=64;, score=0.824 total time=  10.9s
+[CV 1/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=8;, score=0.840 total time=   7.1s
+[CV 4/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=64;, score=0.802 total time=  12.0s
+[CV 5/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=32;, score=0.841 total time=  11.4s
+[CV 4/5] END ................C=1000, penalty=l2;, score=0.851 total time=   3.0s
+[CV 1/5] END ...............gamma=0, kernel=rbf;, score=0.496 total time=  13.4s
+[CV 3/5] END ................gamma=1, kernel=poly;, score=nan total time=   0.3s
+[CV 5/5] END ................gamma=1, kernel=poly;, score=nan total time=   0.4s
+[CV 3/5] END ...............gamma=10, kernel=poly;, score=nan total time=   0.3s
+[CV 5/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=16;, score=0.846 total time=   7.1s
+[CV 1/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=16;, score=0.857 total time=   6.9s
+[CV 2/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.8s
+[CV 1/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 2/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=16;, score=0.815 total time=   7.5s
+[CV 2/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=8;, score=0.824 total time=  15.0s
+[CV 2/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=64;, score=0.775 total time=  10.6s
+[CV 3/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 4/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=32;, score=0.822 total time=  14.0s
+[CV 4/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=32;, score=0.822 total time=  14.9s
+[CV 2/5] END ...................C=100, penalty=l1;, score=nan total time=   0.1s
+[CV 4/5] END ....................C=10, penalty=l1;, score=nan total time=   0.1s
+[CV 5/5] END ..................C=10, penalty=l2;, score=0.845 total time=   3.0s
+[CV 3/5] END ...............gamma=0, kernel=rbf;, score=0.496 total time=  16.9s
+[CV 4/5] END ...............gamma=10, kernel=poly;, score=nan total time=   0.4s
+[CV 1/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 1/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=64;, score=0.784 total time=   6.8s
+[CV 2/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=32;, score=0.809 total time=   7.0s
+[CV 5/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.5s
+[CV 1/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=16;, score=0.853 total time=   9.6s
+[CV 4/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=8;, score=0.839 total time=  19.1s
+[CV 2/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.7s
+[CV 2/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.7s
+[CV 4/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=32;, score=0.841 total time=  12.2s
+[CV 5/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=16;, score=0.847 total time=  13.9s
+[CV 2/5] END ................C=1000, penalty=l2;, score=0.838 total time=   3.7s
+[CV 4/5] END ..............gamma=0, kernel=poly;, score=0.496 total time=  13.7s
+[CV 5/5] END ...............gamma=10, kernel=poly;, score=nan total time=   0.3s
+[CV 3/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 3/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=16;, score=0.835 total time=   6.9s
+[CV 4/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=8;, score=0.845 total time=   7.4s
+[CV 5/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=64;, score=0.787 total time=   6.6s
+[CV 4/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=8;, score=0.842 total time=   6.4s
+[CV 5/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=64;, score=0.787 total time=  12.6s
+[CV 1/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=64;, score=0.784 total time=  13.2s
+[CV 2/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 3/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=32;, score=0.837 total time=  13.9s
+[CV 1/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=32;, score=0.820 total time=  13.5s
+[CV 3/5] END ................C=1000, penalty=l2;, score=0.861 total time=   3.6s
+[CV 2/5] END ..............gamma=0, kernel=poly;, score=0.496 total time=  12.9s
+[CV 2/5] END ..............gamma=10, kernel=rbf;, score=0.496 total time=23.7min
+[CV 2/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.0s
+[CV 4/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.5s
+[CV 2/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=8;, score=0.821 total time=   6.3s
+[CV 3/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=64;, score=0.824 total time=   6.7s
+[CV 4/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=32;, score=0.830 total time=   6.8s
+[CV 3/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 4/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=16;, score=0.841 total time=  10.3s
+[CV 1/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=16;, score=0.853 total time=  14.8s
+[CV 4/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=64;, score=0.802 total time=  11.3s
+[CV 4/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=16;, score=0.841 total time=   9.6s
+[CV 1/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=16;, score=0.853 total time=  13.9s
+[CV 4/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=64;, score=0.802 total time=  10.8s
+[CV 5/5] END ...................C=100, penalty=l1;, score=nan total time=   0.0s
+[CV 1/5] END ..................C=10, penalty=l2;, score=0.873 total time=   3.6s
+[CV 3/5] END ..............gamma=0, kernel=poly;, score=0.496 total time=  13.3s
+[CV 4/5] END ..............gamma=10, kernel=rbf;, score=0.496 total time=23.8min
+[CV 1/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.5s
+[CV 1/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=8;, score=0.841 total time=   6.2s
+[CV 2/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=64;, score=0.775 total time=   6.6s
+[CV 3/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=32;, score=0.837 total time=   6.2s
+[CV 4/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=8;, score=0.846 total time=   6.6s
+[CV 1/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=8;, score=0.841 total time=  20.7s
+[CV 1/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.7s
+[CV 5/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=16;, score=0.846 total time=   7.3s
+[CV 4/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=8;, score=0.843 total time=  18.5s
+[CV 2/5] END ..................C=1000, penalty=l1;, score=nan total time=   0.0s
+[CV 3/5] END ....................C=10, penalty=l1;, score=nan total time=   0.0s
+[CV 3/5] END ..................C=10, penalty=l2;, score=0.863 total time=   3.7s
+[CV 1/5] END ...............gamma=1, kernel=rbf;, score=0.496 total time=24.3min
+[CV 5/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.5s
+[CV 4/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.6s
+[CV 5/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=32;, score=0.841 total time=   7.1s
+[CV 1/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=32;, score=0.820 total time=   7.4s
+[CV 3/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.6s
+[CV 2/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=8;, score=0.824 total time=   5.5s
+[CV 2/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=64;, score=0.775 total time=  11.0s
+[CV 5/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=16;, score=0.846 total time=  14.6s
+[CV 4/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.7s
+[CV 2/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=8;, score=0.819 total time=   5.4s
+[CV 2/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=64;, score=0.775 total time=  11.6s
+[CV 2/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=32;, score=0.809 total time=  12.7s
+[CV 1/5] END ................C=1000, penalty=l2;, score=0.870 total time=   3.6s
+[CV 5/5] END ...............gamma=0, kernel=rbf;, score=0.496 total time=  15.4s
+[CV 5/5] END ..............gamma=10, kernel=rbf;, score=0.496 total time=24.1min
+[CV 2/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 2/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=32;, score=0.814 total time=   6.6s
+[CV 3/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=16;, score=0.835 total time=   7.0s
+[CV 4/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.6s
+[CV 5/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 1/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=32;, score=0.820 total time=  12.5s
+[CV 2/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=16;, score=0.824 total time=  14.4s
+[CV 3/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.7s
+[CV 1/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.6s
+[CV 5/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=8;, score=0.845 total time=   6.8s
+[CV 1/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=8;, score=0.850 total time=  20.7s
+[CV 1/5] END ..................C=1000, penalty=l1;, score=nan total time=   0.1s
+[CV 4/5] END .................C=100, penalty=l2;, score=0.851 total time=   3.6s
+[CV 1/5] END ..............gamma=0, kernel=poly;, score=0.496 total time=  14.1s
+[CV 3/5] END ..............gamma=10, kernel=rbf;, score=0.496 total time=24.4min
+[CV 2/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.6s
+[CV 2/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=16;, score=0.815 total time=   6.9s
+[CV 3/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=8;, score=0.854 total time=   6.6s
+[CV 3/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=64;, score=0.824 total time=   7.1s
+[CV 1/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=8;, score=0.846 total time=   7.9s
+[CV 4/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=64;, score=0.802 total time=  12.6s
+[CV 5/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=32;, score=0.841 total time=  11.6s
+[CV 3/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.7s
+[CV 5/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 1/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=64;, score=0.784 total time=  12.5s
+[CV 3/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=32;, score=0.837 total time=  14.1s
+[CV 1/5] END ...................C=100, penalty=l1;, score=nan total time=   0.0s
+[CV 1/5] END ....................C=10, penalty=l1;, score=nan total time=   0.0s
+[CV 2/5] END ..................C=10, penalty=l2;, score=0.838 total time=   2.6s
+[CV 3/5] END ...................C=1, penalty=l2;, score=0.861 total time=   1.7s
+[CV 3/5] END ...............gamma=1, kernel=rbf;, score=0.496 total time=24.6min
+[CV 4/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=8;, score=0.496 total time=   1.0s
+[CV 1/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.5s
+[CV 4/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=16;, score=0.840 total time=   6.6s
+[CV 5/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=8;, score=0.850 total time=   7.4s
+[CV 1/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.6s
+[CV 2/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.7s
+[CV 5/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 1/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=64;, score=0.784 total time=  12.2s
+[CV 2/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=32;, score=0.809 total time=  12.5s
+[CV 1/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.5s
+[CV 1/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.6s
+[CV 1/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=32;, score=0.820 total time=  13.4s
+[CV 3/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=16;, score=0.835 total time=  14.3s
+[CV 4/5] END ..................C=1000, penalty=l1;, score=nan total time=   0.0s
+[CV 3/5] END .................C=100, penalty=l2;, score=0.863 total time=   2.9s
+[CV 5/5] END ...................C=1, penalty=l2;, score=0.842 total time=   1.6s
+[CV 5/5] END ...............gamma=1, kernel=rbf;, score=0.496 total time=24.7min
+[CV 5/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=64;, score=0.496 total time=   1.0s
+[CV 3/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.6s
+[CV 5/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=8;, score=0.850 total time=   7.0s
+[CV 1/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=8;, score=0.835 total time=   6.9s
+[CV 2/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=64;, score=0.775 total time=   7.1s
+[CV 4/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 5/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=32;, score=0.841 total time=  12.1s
+[CV 4/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=16;, score=0.842 total time=  15.6s
+[CV 5/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.6s
+[CV 4/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=8;, score=0.840 total time=   6.6s
+[CV 5/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=64;, score=0.787 total time=  11.8s
+[CV 1/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=64;, score=0.784 total time=  10.9s
+[CV 5/5] END ................C=1000, penalty=l2;, score=0.846 total time=   2.5s
+[CV 2/5] END ...................C=1, penalty=l2;, score=0.838 total time=   1.9s
+[CV 4/5] END ...............gamma=1, kernel=rbf;, score=0.496 total time=24.9min
+[CV 1/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 2/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 3/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=64;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=16;, score=0.496 total time=   1.6s
+[CV 1/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=16;, score=0.857 total time=   7.0s
+[CV 2/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=8;, score=0.821 total time=   7.2s
+[CV 4/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=64;, score=0.802 total time=   6.7s
+[CV 3/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=8;, score=0.852 total time=   6.1s
+[CV 3/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=64;, score=0.824 total time=  10.6s
+[CV 1/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=32;, score=0.820 total time=  14.7s
+[CV 2/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.6s
+[CV 1/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=16;, score=0.853 total time=  10.0s
+[CV 5/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=8;, score=0.850 total time=  14.0s
+[CV 3/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=64;, score=0.824 total time=  10.6s
+[CV 4/5] END ...................C=100, penalty=l1;, score=nan total time=   0.1s
+[CV 5/5] END ....................C=10, penalty=l1;, score=nan total time=   0.1s
+[CV 1/5] END .....................C=1, penalty=l1;, score=nan total time=   0.1s
+[CV 2/5] END .....................C=1, penalty=l1;, score=nan total time=   0.1s
+[CV 3/5] END .....................C=1, penalty=l1;, score=nan total time=   0.1s
+[CV 4/5] END .....................C=1, penalty=l1;, score=nan total time=   0.1s
+[CV 5/5] END .....................C=1, penalty=l1;, score=nan total time=   0.1s
+[CV 1/5] END ...................C=1, penalty=l2;, score=0.870 total time=   3.3s
+[CV 2/5] END ...............gamma=1, kernel=rbf;, score=0.496 total time=24.9min
+[CV 3/5] END max_depth=1, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   0.9s
+[CV 4/5] END max_depth=1, max_leaf_nodes=64, min_samples_leaf=16;, score=0.496 total time=   0.9s
+[CV 5/5] END max_depth=1, max_leaf_nodes=128, min_samples_leaf=8;, score=0.496 total time=   0.9s
+[CV 1/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.5s
+[CV 2/5] END max_depth=10, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.5s
+[CV 3/5] END max_depth=10, max_leaf_nodes=64, min_samples_leaf=32;, score=0.837 total time=   7.1s
+[CV 4/5] END max_depth=10, max_leaf_nodes=128, min_samples_leaf=16;, score=0.840 total time=   7.1s
+[CV 5/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.6s
+[CV 1/5] END max_depth=50, max_leaf_nodes=2, min_samples_leaf=64;, score=0.496 total time=   1.6s
+[CV 2/5] END max_depth=50, max_leaf_nodes=64, min_samples_leaf=32;, score=0.809 total time=  12.6s
+[CV 3/5] END max_depth=50, max_leaf_nodes=128, min_samples_leaf=16;, score=0.835 total time=  14.7s
+[CV 4/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=8;, score=0.496 total time=   1.8s
+[CV 4/5] END max_depth=None, max_leaf_nodes=2, min_samples_leaf=32;, score=0.496 total time=   1.6s
+[CV 3/5] END max_depth=None, max_leaf_nodes=64, min_samples_leaf=16;, score=0.834 total time=   8.0s
+[CV 3/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=8;, score=0.865 total time=  19.1s
+[CV 5/5] END max_depth=None, max_leaf_nodes=128, min_samples_leaf=64;, score=0.787 total time=  10.4s
+[CV 1/5] END .................C=100, penalty=l2;, score=0.868 total time=   3.6s
+[CV 4/5] END ...............gamma=0, kernel=rbf;, score=0.496 total time=  14.4s
+[CV 1/5] END ..............gamma=10, kernel=rbf;, score=0.496 total time=25.1min
+DecisionTreeClassifier(max_leaf_nodes=128, min_samples_leaf=8)
+[0 0 0 ... 0 0 0]
+0.6818181818181819
+Decision Tree Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      1.00      1.00     47212
+    Positive       0.93      0.80      0.86       788
+
+    accuracy                           1.00     48000
+   macro avg       0.96      0.90      0.93     48000
+weighted avg       1.00      1.00      1.00     48000
+
+Decision Tree Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.99      1.00      0.99     11788
+    Positive       0.73      0.62      0.67       212
+
+    accuracy                           0.99     12000
+   macro avg       0.86      0.81      0.83     12000
+weighted avg       0.99      0.99      0.99     12000
+
+Fitting 5 folds for each of 8 candidates, totalling 40 fits
+LogisticRegression(C=10)
+0.7055837563451777
+Fitting 5 folds for each of 6 candidates, totalling 30 fits
+SVC(gamma=0)
+0.0
+SVC Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       0.98      1.00      0.99     47212
+    Positive       0.00      0.00      0.00       788
+
+    accuracy                           0.98     48000
+   macro avg       0.49      0.50      0.50     48000
+weighted avg       0.97      0.98      0.98     48000
+
+SVC Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.98      1.00      0.99     11788
+    Positive       0.00      0.00      0.00       212
+
+    accuracy                           0.98     12000
+   macro avg       0.49      0.50      0.50     12000
+weighted avg       0.96      0.98      0.97     12000
+
+Logistic Regression Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.30      0.46     47212
+    Positive       0.02      0.94      0.04       788
+
+    accuracy                           0.31     48000
+   macro avg       0.51      0.62      0.25     48000
+weighted avg       0.98      0.31      0.46     48000
+
+Logistic Regression Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.33      0.50     11788
+    Positive       0.02      0.92      0.05       212
+
+    accuracy                           0.34     12000
+   macro avg       0.51      0.63      0.27     12000
+weighted avg       0.98      0.34      0.49     12000
+
+Weighted SVC Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.95      0.98     11788
+    Positive       0.26      0.92      0.40       212
+
+    accuracy                           0.95     12000
+   macro avg       0.63      0.93      0.69     12000
+weighted avg       0.99      0.95      0.97     12000
+
+Weighted Logistic Regression Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.97      0.98     11788
+    Positive       0.32      0.89      0.48       212
+
+    accuracy                           0.97     12000
+   macro avg       0.66      0.93      0.73     12000
+weighted avg       0.99      0.97      0.97     12000
+
+Weighted Decision Tree Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.99      0.99      0.99     11788
+    Positive       0.65      0.60      0.62       212
+
+    accuracy                           0.99     12000
+   macro avg       0.82      0.80      0.81     12000
+weighted avg       0.99      0.99      0.99     12000
+
+Random Forest Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.99      1.00      1.00     11788
+    Positive       0.86      0.56      0.68       212
+
+    accuracy                           0.99     12000
+   macro avg       0.93      0.78      0.84     12000
+weighted avg       0.99      0.99      0.99     12000
+
+Gradient Boosting Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.99      1.00      1.00     11788
+    Positive       0.80      0.64      0.71       212
+
+    accuracy                           0.99     12000
+   macro avg       0.90      0.82      0.85     12000
+weighted avg       0.99      0.99      0.99     12000
+

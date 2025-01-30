@@ -1,0 +1,179 @@
+Data Handling started!
+len of classes:	 60000
+len of the header 171
+
+Fit on oversampled data: 
+
+SVM Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.92      0.95      0.94     11788
+    Positive       0.95      0.92      0.94     11788
+
+    accuracy                           0.94     23576
+   macro avg       0.94      0.94      0.94     23576
+weighted avg       0.94      0.94      0.94     23576
+
+SVM Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       0.93      0.96      0.94     47212
+    Positive       0.96      0.93      0.94     47212
+
+    accuracy                           0.94     94424
+   macro avg       0.94      0.94      0.94     94424
+weighted avg       0.94      0.94      0.94     94424
+
+Logistic Regression Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.92      0.97      0.95     11788
+    Positive       0.97      0.91      0.94     11788
+
+    accuracy                           0.94     23576
+   macro avg       0.95      0.94      0.94     23576
+weighted avg       0.95      0.94      0.94     23576
+
+Logistic Regression Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       0.96      0.98      0.97     47212
+    Positive       0.98      0.96      0.97     47212
+
+    accuracy                           0.97     94424
+   macro avg       0.97      0.97      0.97     94424
+weighted avg       0.97      0.97      0.97     94424
+
+Decision Tree Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.88      0.99      0.93     11788
+    Positive       0.99      0.87      0.92     11788
+
+    accuracy                           0.93     23576
+   macro avg       0.94      0.93      0.93     23576
+weighted avg       0.94      0.93      0.93     23576
+
+Decision Tree Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      1.00      1.00     47212
+    Positive       1.00      1.00      1.00     47212
+
+    accuracy                           1.00     94424
+   macro avg       1.00      1.00      1.00     94424
+weighted avg       1.00      1.00      1.00     94424
+
+
+Fit on undersampled data: 
+
+SVM Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.88      0.94      0.91       212
+    Positive       0.93      0.88      0.91       212
+
+    accuracy                           0.91       424
+   macro avg       0.91      0.91      0.91       424
+weighted avg       0.91      0.91      0.91       424
+
+SVM Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       0.89      0.95      0.92       788
+    Positive       0.95      0.89      0.91       788
+
+    accuracy                           0.92      1576
+   macro avg       0.92      0.92      0.92      1576
+weighted avg       0.92      0.92      0.92      1576
+
+Logistic Regression Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.92      0.93      0.93       212
+    Positive       0.93      0.92      0.93       212
+
+    accuracy                           0.93       424
+   macro avg       0.93      0.93      0.93       424
+weighted avg       0.93      0.93      0.93       424
+
+Logistic Regression Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       0.98      0.99      0.99       788
+    Positive       0.99      0.98      0.99       788
+
+    accuracy                           0.99      1576
+   macro avg       0.99      0.99      0.99      1576
+weighted avg       0.99      0.99      0.99      1576
+
+Decision Tree Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.92      0.92      0.92       212
+    Positive       0.92      0.92      0.92       212
+
+    accuracy                           0.92       424
+   macro avg       0.92      0.92      0.92       424
+weighted avg       0.92      0.92      0.92       424
+
+Decision Tree Performance on Train Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      1.00      1.00       788
+    Positive       1.00      1.00      1.00       788
+
+    accuracy                           1.00      1576
+   macro avg       1.00      1.00      1.00      1576
+weighted avg       1.00      1.00      1.00      1576
+
+Weighted SVC Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.95      0.98     11788
+    Positive       0.26      0.92      0.40       212
+
+    accuracy                           0.95     12000
+   macro avg       0.63      0.93      0.69     12000
+weighted avg       0.99      0.95      0.97     12000
+
+Weighted Logistic Regression Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       1.00      0.97      0.98     11788
+    Positive       0.32      0.89      0.48       212
+
+    accuracy                           0.97     12000
+   macro avg       0.66      0.93      0.73     12000
+weighted avg       0.99      0.97      0.97     12000
+
+Weighted Decision Tree Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.99      0.99      0.99     11788
+    Positive       0.64      0.60      0.62       212
+
+    accuracy                           0.99     12000
+   macro avg       0.81      0.80      0.81     12000
+weighted avg       0.99      0.99      0.99     12000
+
+Random Forest Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.99      1.00      1.00     11788
+    Positive       0.86      0.57      0.68       212
+
+    accuracy                           0.99     12000
+   macro avg       0.92      0.78      0.84     12000
+weighted avg       0.99      0.99      0.99     12000
+
+Gradient Boosting Performance on Test Set:
+              precision    recall  f1-score   support
+
+    Negative       0.99      1.00      1.00     11788
+    Positive       0.80      0.64      0.71       212
+
+    accuracy                           0.99     12000
+   macro avg       0.89      0.82      0.85     12000
+weighted avg       0.99      0.99      0.99     12000
+
